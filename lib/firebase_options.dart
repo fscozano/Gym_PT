@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCkEtZS_jLv_F44C9NxDCqIzmgXHQveNM4',
-    appId: '1:790150905700:android:7a30c3f58b0d62a79b8471',
-    messagingSenderId: '790150905700',
-    projectId: 'jimv01',
-    storageBucket: 'jimv01.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAzVS3eKntYCl8sLlbpTEfdT8QrE-qGy6c',
-    appId: '1:790150905700:ios:8bb551f6e39320809b8471',
-    messagingSenderId: '790150905700',
-    projectId: 'jimv01',
-    storageBucket: 'jimv01.appspot.com',
-    iosBundleId: 'com.fscozano.cicciofn',
+    apiKey: '-qGy6c',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
