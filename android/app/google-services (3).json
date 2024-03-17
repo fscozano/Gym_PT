@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790150905700",
+    "project_id": "jimv01",
+    "storage_bucket": "jimv01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790150905700:android:7a30c3f58b0d62a79b8471",
+        "android_client_info": {
+          "package_name": "com.example.cicciofn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEtZS_jLv_F44C9NxDCqIzmgXHQveNM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
